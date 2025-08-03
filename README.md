@@ -1,2 +1,2 @@
 # ![logo](https://github.com/Kostya0Sim/Better-Furnaces-Reforged-DM/blob/main/pack.png) Better Furnaces Reforged: DM
-This resource pack changes the appearance of the [Useful Backpacks](https://www.curseforge.com/minecraft/mc-mods/Better-Furnaces-Reforged) mod's GUI to the darker and less saturated tones like in a [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) resource pack.
+This resource pack changes the appearance of the [Better Furnaces Reforged](https://www.curseforge.com/minecraft/mc-mods/Better-Furnaces-Reforged) mod's GUI to the darker and less saturated tones like in a [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) resource pack.
